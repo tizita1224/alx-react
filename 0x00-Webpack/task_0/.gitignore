@@ -1,2 +1,3 @@
 node_modules
-package-lock.jsoN
+/dist/main.js
+package-lock.json
